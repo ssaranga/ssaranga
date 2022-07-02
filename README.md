@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssaranga
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on android projects
 - 📫 reach me at assam.sps@gmail.com
 
